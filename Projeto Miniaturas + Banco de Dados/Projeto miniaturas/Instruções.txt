@@ -1,0 +1,7 @@
+1.ligar o xampp-controll e ativar o apache e o mysql
+2.Executar o codigo do banco de dados na pasta bd no phpmyadmin
+3.abrir o arquivo do connection com um editor de texto e modificar a string de conexão 
+Exemplo:
+$link = mysqli_connect('localhost', 'usuario' ,'senha');
+4.colocar a pasta Projeto miniaturas na pasta xampp/localhost
+5.pesquisar localhost/Projeto miniaturas no navegador de preferencia
